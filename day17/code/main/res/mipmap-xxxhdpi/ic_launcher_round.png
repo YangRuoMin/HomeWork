@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42b1fc49-a151-4951-9e02-ae58a0c1a591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/activity/AboutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/activity/SettingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/activity/WebViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_web_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastext/src/main/res/mipmap-hdpi/bar_options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recycleadapterhrlper/src/main/res/layout/activity_basequickadapter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recycleadapterhrlper/src/main/res/layout/activity_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/DynamicFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/fragment/DynamicFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/FragmentAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/fragment/FragmentAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/InformationFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/fragment/InformationFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/LinkmanFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/fragment/LinkmanFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/java/com/example/mastext/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/res/layout/fragment_information.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/res/layout/fragment_information.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/res/menu/header_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/res/menu/header_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastext/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mastext/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="My Application" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/PoppFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/res/layout/activity_sou_suo.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="e#1146#1161#0" expanded="true" />
+                <element signature="e#1147#1161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/SouSuoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1404">
+              <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/PageActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/res/layout/activity_page.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+              <folding>
+                <element signature="e#749#763#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/res/layout/class_fragmnet.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="89" column="24" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/res/layout/pull.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="122" column="17" selection-start-line="122" selection-start-column="17" selection-end-line="122" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/res/layout/pop.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1566">
+              <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/ClassFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="layoutResourceFile" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/adapter/MultiQuick1Adapter.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/ui/activity/MultiPulit1Activity.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/ui/activity/MultiPulit2Activity.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/api/Constants.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/entity/GongZhongHaoInfo.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/ui/activity/BaseQuickActivity.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/adapter/MyBaseNetQuiclAdapyer.java" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/recycleadapterhrlper/src/main/java/com/example/recycleadapterhrlper/adapter/MyBaseNetImgAdapter.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/MainActivity.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/ShouYeFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/activity_show.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/screenMatchDP.bat" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/DimenUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/fragment/AlreadyFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/fragment/CancelFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/fragment/WattingFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/VpAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/myapplication/adapter/FvpAdapter.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/adapter/FvpAdapter.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/adapter/VpAdapter.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/yueke.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/YueKeClassFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/drawable/setbar_bg.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/AlreadyFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/CancelFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/WattingFragment.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/watting.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/cancel.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/already_item.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/PageActivity.java" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/drawable/person_select.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/activity_find_pass.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/activity_register_other_login.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/everyclass/src/main/java/com/example/everyclass/fragment/PersonFragment.java" />
+        <option value="$PROJECT_DIR$/everycl
